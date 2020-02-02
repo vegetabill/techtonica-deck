@@ -5,14 +5,41 @@
 
 body {
   font-family: 'Droid Serif', Georgia, serif;
-  font-size: 16px;
+  font-size: 18px;
+}
+
+h1 {
+  color: #0093B5;
+  text-shadow: 1px 1px 5px #aaa;
 }
 
 h1, h2, h3 {
-  font-family: "lato", helvetica, sans-serif;
-  font-weight: bold;
-  color: #0093B5;
-  text-shadow: 1px 1px 1px #666;
+  font-family: "lato", helvetica, sans-serif;  
+  
+}
+
+.remark-slide-content p, ol, ul {
+  font-size: 1.25em;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background-color: white;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  opacity: 90%;
+}
+
+#footer-logo {
+  width: 100px;
+}
+
+.footer-item {
+  margin: 10px 20px;
 }
 
 .smallImage, .bigImage {

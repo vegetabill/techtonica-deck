@@ -222,3 +222,10 @@ Write down a scenario where you wanted to give someone else feedback, but you di
 - Impact
 - Question
 
+---
+
+# Wrap-Up / Questions
+
+_Be more constructive with your feedback._ -FOTC
+
+.smallImage[![hiphopapotamus](/feedback-giving/fotc.jpg)]

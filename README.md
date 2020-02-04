@@ -8,7 +8,8 @@ You have to run a local webserver to serve the files.
 
 `python3 -m http.server 5000`
 
-`open http://localhost:5000`
+## Finished Decks
+- [Feedback, Giving](http://localhost:5000?title=feedback-giving)
 
 ## Editing
 
